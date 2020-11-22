@@ -4,7 +4,7 @@ data class Hobby(var title : String)
 
 object HobbiesData {
 
-    val hobbies = listOf<Hobby>(
+    val hobbies = listOf(
         Hobby("Gaming"),
         Hobby("Swimming"),
         Hobby("Reading"),
